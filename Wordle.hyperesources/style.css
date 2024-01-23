@@ -1,0 +1,16 @@
+.box {
+	text-transform: uppercase;
+}
+
+.box.empty {
+	background-color: #3A3A3C !important;
+}
+
+.box.wrong {
+	background-color: #B59F3B !important;
+}
+
+.box.right {
+	background-color: #538D4E !important;
+}
+
